@@ -1,6 +1,7 @@
-import { Button } from '@/components/ui/button';
+import sampleData from '@/db/sample-data';
 
 const Homepage = () => {
+  console.log('sample data', sampleData);
   return <></>;
 };
 
